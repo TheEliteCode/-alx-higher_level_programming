@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # 7-rectangle.py
+# TheEliteCode
 """Defines a Rectangle class."""
 
 
