@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-rectangle.py
-# Brennan D Baraban <375@holbertonschool.com>
+# TheEliteCode
 """Defines a Rectangle class."""
 
 
