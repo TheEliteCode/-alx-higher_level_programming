@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 4-from_json_string.py
-# TheEliteCode <davode12@gmail.com>
+# 6-from_json_string.py
+# Brennan D Baraban <375@holbertonschool.com>
 """Defines a JSON-to-object function."""
 import json
 
