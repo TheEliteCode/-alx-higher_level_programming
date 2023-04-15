@@ -8,8 +8,8 @@ This project contains all the files i created for the ALX  javascript warm up pr
 
 
 * **. Installing node 14**
-   * ``` $ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-    * $ sudo apt-get install -y nodejs ```
+   * ``` $ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -```
+    * ```$ sudo apt-get install -y nodejs ```
 * **.Installing semi-standard**
     * ```$ sudo npm install semistandard --global ```
 
